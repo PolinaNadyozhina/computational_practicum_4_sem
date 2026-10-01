@@ -4,8 +4,7 @@
 
 ## Структура
 - `code/` — программы (Python 3; `numpy` и `scipy` — для заданий 4.1, 4.3, 6; `scipy` необязателен для 4.2 и 5)
-- `reports/` — полные отчёты (`Report_Task_<номер>.docx`)
-- `Report_T/` — краткие технические отчёты (`Report_T<номер>.docx`)
+- `Report_T/` — технические отчёты (`Report_T<номер>.docx`)
 - `summaries/` — описание заданий (`Summary_Task_<номер>.docx`)
 
 ## Задания
